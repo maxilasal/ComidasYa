@@ -1,0 +1,4 @@
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Clases\bin\Debug\ComidasYa_Clases.dll
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Clases\bin\Debug\ComidasYa_Clases.pdb
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Clases\obj\Debug\ComidasYa_Clases.dll
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Clases\obj\Debug\ComidasYa_Clases.pdb

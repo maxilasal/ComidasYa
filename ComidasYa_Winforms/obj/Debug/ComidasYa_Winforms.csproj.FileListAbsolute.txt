@@ -1,0 +1,9 @@
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\bin\Debug\ComidasYa_Winforms.exe.config
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\bin\Debug\ComidasYa_Winforms.exe
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\bin\Debug\ComidasYa_Winforms.pdb
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.Login.resources
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.Properties.Resources.resources
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.VentanaPrincipal.resources
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.csproj.GenerateResource.Cache
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.exe
+C:\Users\MAX\Documents\Visual Studio 2015\Projects\ComidasYa\ComidasYa_Winforms\obj\Debug\ComidasYa_Winforms.pdb
